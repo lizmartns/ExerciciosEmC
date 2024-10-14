@@ -1,0 +1,1 @@
+//Crie uma struct Contato com os campos: nome, telefone e email.Implemente um programa que permita ao usuário adicionar,remover, buscar e listar contatos em uma agenda.

@@ -1,0 +1,1 @@
+//Crie uma struct para representar o tabuleiro do jogo da velha (matriz 3x3)e outra para representar os jogadores (nome e símbolo, 'X' ou 'O').Implemente as funções para exibir o tabuleiro, fazer uma jogada, verificarse há um vencedor e verificar se o jogo empatou.
