@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/marti/OneDrive/Documentos/meusProjetos/ExercIciosEmC/structs",
-      "program": "c:/Users/marti/OneDrive/Documentos/meusProjetos/ExercIciosEmC/structs/build/Debug/outDebug",
+      "cwd": "c:/Users/marti/OneDrive/Documentos/meusProjetos/ExercIciosEmC/Funções",
+      "program": "c:/Users/marti/OneDrive/Documentos/meusProjetos/ExercIciosEmC/Funções/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
