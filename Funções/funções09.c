@@ -4,7 +4,7 @@
 int numeros(int numero){
     int contador = 0;
 
-    while(num > 0){
+    while(numero > 0){
         numero/=10;
         contador ++;
     }
@@ -13,9 +13,9 @@ int numeros(int numero){
 int main(){
     int numero;
 
-    printf("Escreva um número inteiro positivo: ");
+    printf("Escreva um numero inteiro positivo: ");
     scanf("%d", &numero);
 
-    printf("A quantidade de dígitos desse número é %d", numeros(numero));
+    printf("A quantidade de digitos desse numero e %d", numeros(numero));
 
 }
