@@ -1,6 +1,7 @@
+// função que receba um número inteiro e retorne seu quadrado. No programa principal, leia um número do usuário, chame a função e exiba o resultado
+
 #include <stdio.h>
 
-// função que receba um número inteiro e retorne seu quadrado. No programa principal, leia um número do usuário, chame a função e exiba o resultado
 int quadrado(int num){
     return num*num;
 }
