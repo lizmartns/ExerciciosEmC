@@ -2,7 +2,11 @@
 
 int main(){
 
-    int matriz[3][4], linha, coluna, soma;
+    int matriz[3][4], linha, coluna, soma[3];
+
+    for(linha = 0; linha >3; linha++){
+        soma[linha]+=0;
+    }
 
     printf("Insira os números da matriz: ");
     for(linha = 0; linha >3; linha ++){
@@ -19,7 +23,7 @@ int main(){
     }
     
     for(linha = 0; linha >3; linha ++){
-            soma += matriz[linha][coluna];
+            soma[linha] += matriz[linha][coluna];
             printf("%d ", soma);
         }
     
